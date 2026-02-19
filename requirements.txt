@@ -13,3 +13,4 @@ InquirerPy
 Pillow
 PyInstaller
 websockets
+werkzeug>=3.1.5 # not directly required, pinned by Snyk to avoid a vulnerability
